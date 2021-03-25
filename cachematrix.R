@@ -2,7 +2,7 @@
 ## The goal is to store a matrix and then find
 ## its inverse
 
-## This a code is for a function that caches a matrix inverse
+## This code is for a function that caches a matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
